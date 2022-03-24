@@ -1,1 +1,1 @@
-"# Note-It" 
+# React application for note taking and reminders
